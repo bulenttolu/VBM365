@@ -10,18 +10,5 @@ The script finds the restore sessions, and then iterates through each of them to
 
 ![outputbig](https://user-images.githubusercontent.com/111152711/184495682-adcfc4f1-43ec-43f2-b4e2-a4f0245654e4.png)
 
-•	Org: Which 365 organization
-•	SessionID: Restore Session ID for reference 
-  o	The output could seem to have duplicated rows at first but they are not… I wanted to output all events for a session and each restore session can have multiple events. 
-•	Initiated by: Who has started
-•	Session Name: From which job
-•	Type : Which explorer
-•	Time
-•	Clienthost
-•	itemName: Which item has been touched
-•	itemtype: Folder, mail, etc
-•	Source/target
-•	Event: View, Restore, Send, Export, Save, and None (session start, and session end)
-•	Message: details about the event
-•	Order: the order of events within each session 
+
 PS: I am not a script guru, but finding my way around 😊 Please let me know if there is any issues. 

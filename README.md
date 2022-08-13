@@ -1,4 +1,4 @@
-# VBM365
+# Gathering VBM365 Restore Sessions/Events via Powershell
 
 one questions always get asked if it is possible to know “who has touched/restored what and when” to audit for compliance or for any other requirement. For Veeam Backup for Microsoft 365, there is already great information published in the post(s) and blog of Jorge, explaining all in very great detail: https://community.veeam.com/blogs-and-podcasts-57/vb365-restore-audit-the-definitive-guide-2557
 

@@ -10,9 +10,9 @@ The script finds the restore sessions, and then iterates through each of them to
 
 ![outputbig](https://user-images.githubusercontent.com/111152711/184495682-adcfc4f1-43ec-43f2-b4e2-a4f0245654e4.png)
 
-•	Org: Which 365 organization 
+•	Org: Which 365 organization
 •	SessionID: Restore Session ID for reference 
-o	The output could seem to have duplicated rows at first but they are not… I wanted to output all events for a session and each restore session can have multiple events. 
+  o	The output could seem to have duplicated rows at first but they are not… I wanted to output all events for a session and each restore session can have multiple events. 
 •	Initiated by: Who has started
 •	Session Name: From which job
 •	Type : Which explorer

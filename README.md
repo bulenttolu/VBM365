@@ -6,4 +6,5 @@ Possibly, where you need a quick dump of all restore activities (now!), you may 
 
 RestoreSession and RestoreSessionEvent is what we need to use mainly. The script finds the restore sessions, and then iterates through each of them to spit out the details of each session with its events (session start, views, restores, … session end)
 
-![output](https://user-images.githubusercontent.com/111152711/184495601-80089774-7372-4350-a82b-b21e39fb39d5.png)
+
+![outputbig](https://user-images.githubusercontent.com/111152711/184495682-adcfc4f1-43ec-43f2-b4e2-a4f0245654e4.png)
